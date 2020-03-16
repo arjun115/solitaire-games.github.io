@@ -1,0 +1,6 @@
+[submodule "spider"]
+	path = spider
+	url = git@github.com:solitaire-game/spider.git
+[submodule "klondike"]
+	path = klondike
+	url = git@github.com:solitaire-game/klondike.git
