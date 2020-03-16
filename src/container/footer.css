@@ -1,0 +1,12 @@
+.footer-menu .menu-item {
+    text-transform: uppercase;
+    margin: .5rem 0;
+    padding: 0 1rem !important;
+    font-size: 1rem;
+    line-height: 1rem;
+    color: #fff !important;
+}
+
+.footer-menu .menu-item:nth-child(n+2) {
+    border-left: solid 2px rgba(255,255,255,1);
+}

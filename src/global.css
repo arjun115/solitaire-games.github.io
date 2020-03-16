@@ -1,0 +1,24 @@
+* {
+    font-family: Tahoma, Geneva, sans-serif !important;
+}
+
+body, html {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+.navbar {
+    background: #000 !important;
+    padding: 0 1rem !important;
+}
+
+.navbar-brand {
+    margin-right: 0 !important;
+}
+
+.navbar-toggler {
+    margin: .42rem !important;
+}

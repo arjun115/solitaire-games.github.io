@@ -1,0 +1,14 @@
+
+
+.page-simple-content {
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.page-simple-content > .page-text {
+    width: 100%;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
